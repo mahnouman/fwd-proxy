@@ -1,0 +1,38 @@
+version: '3.7'
+
+services:
+  squid:
+    build: squid/
+    image: squid-reverse
+    env_file: gwproxy.env
+      #volumes:
+        #- "./logs:/var/log/squid"
+    ports:
+      - "8080:8080"
+    network_mode: host
+    restart: always
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+
+  nginx:
+    build: nginx/
+    image: nginx
+    env_file: gwproxy.env
+    ports:
+      - "80:80"
+      - "443:443"
+    network_mode: host
+    restart: always
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+
+  gw-icap:
+    build: c-icap/
+    image: gw-icap
+    ports:
+      - "1344:1344"
+    network_mode: host
+    restart: always
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+

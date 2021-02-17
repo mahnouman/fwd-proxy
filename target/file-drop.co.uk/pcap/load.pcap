@@ -1,0 +1,953 @@
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, null-body=411
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+upgrade-insecure-requests: 1
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, res-hdr=393, res-body=608
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+upgrade-insecure-requests: 1
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 2693
+Content-Type: text/html
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-a85"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:05 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, null-body=413
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, null-body=393
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, null-body=396
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, res-hdr=395, res-body=611
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 25648
+Content-Type: text/css
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-6430"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, res-hdr=375, res-body=607
+Preview: 1024
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 335539
+Content-Type: application/javascript
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-51eb3"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:05 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, res-hdr=378, res-body=608
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 28552
+Content-Type: application/javascript
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-6f88"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, null-body=507
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Encapsulated: req-hdr=0, res-hdr=489, res-body=707
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 37780
+Content-Type: font/woff2
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-9394"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=405
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=397
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=395
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=398
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=399
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=449
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=443
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=442
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=443
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=441
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=442
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=505
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=509
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=504
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=508
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=387, res-body=606
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 1655
+Content-Type: image/svg+xml
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-677"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=379, res-body=594
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 3725
+Content-Type: image/png
+Last-Modified: Wed, 12 Aug 2020 11:18:24 GMT
+Accept-Ranges: bytes
+ETag: "5f33d000-e8d"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=377, res-body=593
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 7972
+Content-Type: image/png
+Last-Modified: Wed, 12 Aug 2020 11:18:24 GMT
+Accept-Ranges: bytes
+ETag: "5f33d000-1f24"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=380, res-body=595
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 2142
+Content-Type: image/png
+Last-Modified: Wed, 12 Aug 2020 11:18:24 GMT
+Accept-Ranges: bytes
+ETag: "5f33d000-85e"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=381, res-body=596
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 3072
+Content-Type: image/png
+Last-Modified: Wed, 12 Aug 2020 11:18:24 GMT
+Accept-Ranges: bytes
+ETag: "5f33d000-c00"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=431, res-body=649
+Preview: 722
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 722
+Content-Type: image/svg+xml
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-2d2"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=425, res-body=642
+Preview: 228
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 228
+Content-Type: image/svg+xml
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-e4"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=424, res-body=642
+Preview: 639
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 639
+Content-Type: image/svg+xml
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-27f"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=425, res-body=643
+Preview: 647
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 647
+Content-Type: image/svg+xml
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-287"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=423, res-body=641
+Preview: 371
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 371
+Content-Type: image/svg+xml
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-173"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=487, res-body=705
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 37448
+Content-Type: font/woff2
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-9248"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=424, res-body=642
+Preview: 447
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 447
+Content-Type: image/svg+xml
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-1bf"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=486, res-body=704
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 38340
+Content-Type: font/woff2
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-95c4"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=491, res-body=709
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 37680
+Content-Type: font/woff2
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-9330"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=490, res-body=708
+Preview: 1024
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/static/css/main.bfb712ab.chunk.css
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 37756
+Content-Type: font/woff2
+Last-Modified: Wed, 12 Aug 2020 11:18:38 GMT
+Accept-Ranges: bytes
+ETag: "5f33d00e-937c"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:06 GMT
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=392
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+REQMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, null-body=392
+Preview: 0
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Server: C-ICAP/0.5.6
+Connection: keep-alive
+ISTag: CI0001-1.1.1
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+Encapsulated: req-hdr=0, res-hdr=374, res-body=587
+Preview: 226
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+dnt: 1
+Referer: https://file-drop.co.uk.glasswall-icap.com/
+Pragma: no-cache
+Cache-Control: no-cache
+Host: file-drop.co.uk.glasswall-icap.com
+Content-Length: 226
+Content-Type: image/png
+Last-Modified: Wed, 12 Aug 2020 11:18:24 GMT
+Accept-Ranges: bytes
+ETag: "5f33d000-e2"
+Server: nginx/1.16.0
+Date: Mon, 05 Oct 2020 10:51:07 GMT
+
+RESPMOD icap://127.0.0.1:1344/gw_rebuild ICAP/1.0
+Host: 127.0.0.1:1344
+Date: Mon, 05 Oct 2020 10:51:08 GMT
+Encapsulated: req-hdr=0, res-hdr=374, res-body=587
+Preview: 226
+Allow: 204
+X-Real-IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv
